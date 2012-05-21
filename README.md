@@ -1,4 +1,1 @@
-rhinointhechinashop.github.com
-==============================
-
-Website
+Static website for rhinointhechinashop.github.com
